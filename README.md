@@ -163,8 +163,8 @@ ORDER BY author_name;
 
 ### Recommendations
 
-The results and recommendations are summarised as follows: [Download here]
+The results and recommendations are summarised as follows: [Download here](https://github.com/faray003/Library-Database-Exploratory-Analysis/blob/main/Data.exploration.findings.pdf)
 
 ### Excel Interactive Dashboard
 
-Please click the download link to access the Microsoft Excel interactive dashboard I created for viewers to have a better understanding of some of my insights. [Download here]
+Please click the download link to access the Microsoft Excel interactive dashboard I created for viewers to have a better understanding of some of my insights. [Download here](https://github.com/faray003/Library-Database-Exploratory-Analysis/blob/main/Library.Management.Dashboard.finalised.xlsx)
